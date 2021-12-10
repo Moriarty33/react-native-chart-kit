@@ -1,5 +1,5 @@
 {
-  "name": "react-native-chart-kit",
+  "name": "@moriarty333/react-native-chart-kit",
   "version": "6.11.0",
   "devDependencies": {
     "@types/react-native": "^0.62.13",
@@ -26,7 +26,6 @@
     "react-test-renderer": "16.7.0",
     "typescript": "^3.9.5"
   },
-  "_main": "./node_modules/expo/AppEntry.js",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
   "files": [
@@ -60,5 +59,10 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
+  },
+  "description": "If you're looking to **build a website or a cross-platform mobile app** – we will be happy to help you! Send a note to clients@ui1.io and we will be in touch with you shortly.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moriarty33/react-native-chart-kit.git"
   }
 }
